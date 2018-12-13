@@ -1,0 +1,17 @@
+{
+    "name": "html-webpack-error-plugin",
+    "version": "0.0.1",
+    "description": "works with html-webpack-plugin to display errors in the browser",
+    "main": "index.js",
+    "keywords": [
+        "webpack",
+        "error",
+        "html"
+    ],
+    "repository": "github:amurf/html-webpack-error-plugin",
+    "homepage": "https://github.com/amurf/html-webpack-error-plugin",
+    "author": "Ashley Murphy",
+    "dependencies": {
+        "html-webpack-plugin": "^4.0.0-beta.4"
+    }
+}
