@@ -1,6 +1,6 @@
 {
     "name": "html-webpack-error-plugin",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "works with html-webpack-plugin to display errors in the browser",
     "main": "index.js",
     "keywords": [
